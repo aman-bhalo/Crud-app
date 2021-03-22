@@ -1,0 +1,11 @@
+{
+  "posts": [
+    {
+      "id": "7a9b0f0a-2b86-4242-a72e-66bb914c6155",
+      "tittle": "life is good",
+      "details": "maybe its not",
+      "Liked": "false",
+      "Disliked": "false"
+    }
+  ]
+}
